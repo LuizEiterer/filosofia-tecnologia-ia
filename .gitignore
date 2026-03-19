@@ -1,0 +1,21 @@
+# --- Oficina Overleaf/LaTeX (Arquivos Auxiliares) ---
+*.aux
+*.log
+*.out
+*.toc
+*.pdfsync
+*.synctex.gz
+*.blg
+*.bbl
+*.fdb_latexmk
+*.fls
+*.run.xml
+*.bcf
+
+# --- Sistema e Organização ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- O que MANTER (O Essencial) ---
+# O GitHub levará apenas: .tex, .bib, .md, .pdf (final) e imagens.
