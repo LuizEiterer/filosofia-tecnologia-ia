@@ -20,7 +20,7 @@ Este repositório funciona como a **Transportadora** (logística de versões) de
 
 * **Oficina (Overleaf):** Onde o manuscrito LaTeX é refinado com rigor técnico.
 * **Galpão Organizador (OSF):** Onde os materiais de suporte, protocolos e a fundamentação ética estão centralizados. 
-  * [Acesse o projeto no OSF]([https://osf.io/](https://osf.io/qc82d)]
+  * [Acesse o projeto no OSF]([https://osf.io/](https://osf.io/qc82d))]
 * **Arquivo Identificado (Zenodo):** Versões estáveis deste repositório recebem um DOI permanente para citação e preservação.
 
 ## ⚖️ Licença e Citação
